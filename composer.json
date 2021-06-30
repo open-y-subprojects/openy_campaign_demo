@@ -1,0 +1,10 @@
+{
+  "name": "open-y-subprojects/openy_campaign_demo",
+  "description": "Demo content for Open Y Campaign application.",
+  "type": "drupal-module",
+  "require": {
+    "open-y-subprojects/openy_demo_content": "*"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}
